@@ -1,16 +1,16 @@
 <resources>
     <!-- App details -->
-    <string name="app_name">TwitterMap</string>
+    <string name="app_name">MappyTweets</string>
 
 
     <!-- Empty -->
-    <string name="title_activity_twitter_map">TwitterMap</string>
-    <string name="title_activity_maps">TwitterMap</string>
+    <string name="title_activity_twitter_map">MappyTweetMap</string>
+    <string name="title_activity_maps">MappyTweetMap</string>
     <string name="activityMain_title">Authenticate</string>
 
     <!--Twitter-->
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">ktBZ17GkEHBtPtuuOHZvEMZZt</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Qvk8uzV8w0yMaYjv9oU4S0S0yCjKgBBk60OMMnYd4ZmixzJ0Ik</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">gvEpHAHUFnD9TwqgQi7iuogzv</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">DlkFKXvyUNd17omwjQvc7r1oEMXWNTv4jAbkunWbqPoOD7r57Y</string>
     <string name="activityTwitterMap_enterRadius">Enter radius in Km</string>
     <string name="activityDetail_retweet">Retweet</string>
     <string name="activitySearch_searchBar">Search by hashtag or keyword</string>
