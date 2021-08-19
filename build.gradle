@@ -3,7 +3,7 @@
 buildscript {
     // Android SDK version
     ext.androidMinSdkVersion = 21
-    ext.androidTargetSdkVersion = 29
+    ext.androidTargetSdkVersion = 30
     ext.androidCompileSdkVersion = 29
 
     // Kotlin
